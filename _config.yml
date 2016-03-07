@@ -1,0 +1,28 @@
+name: Rakis Productions
+favicon: null
+layout_spectrum: 0.0961586784105748
+typography_spectrum: 0.9040247346274555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22477238904684782
+  lightness: 0.3274168148636818
+  saturation: 0.7860742984339595
+  rhythmicContrast: 0.9808720434084535
+purpose: []
